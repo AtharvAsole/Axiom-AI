@@ -28,3 +28,12 @@ API.</li>
 <img src="s2.png" alt="Screenshot 2">
 
 
+<h2>Conclusion</h2>
+<p>AxiomAI, powered by the potent combination of ReactJS and Node.js, showcases the
+capabilities of the ChatGPT 3.5 Turbo API. By analysing its chat completions, optimising
+max tokens, and refining prompt structures, developers can create a dynamic and
+intelligent chatbot that delivers impactful user experiences. With its potential for further
+improvements and diverse applications, AxiomAI possesses the power to revolutionise the
+way we interact with technology.</p>
+
+
