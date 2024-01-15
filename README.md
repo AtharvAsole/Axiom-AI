@@ -21,6 +21,9 @@ ensuring smooth interaction with the Node.js runtime environment.</li>
 on the chosen solution, to further enhance communication with the ChatGPT 3.5 Turbo
 API.</li>
 </ul>
+
+<h2>User Interface</h2>
+
 <img src="s1.png" alt="Screenshot 1">
 <img src="s2.png" alt="Screenshot 2">
 
